@@ -35,3 +35,11 @@ p{
 #proj1Title:hover, #proj2Title:hover{
     cursor: pointer;
 }
+
+@media screen and (min-width: 0px) and (max-widt:500 ) { 
+    .images{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+}
