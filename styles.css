@@ -1,0 +1,37 @@
+#header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10%;
+}
+
+#navigation{
+    display: flex;
+}
+
+h1,li,h3,p{
+    display: flex;
+    padding-left: 20px;
+    font-family: 'Suranna', serif;
+    color: black;
+}
+.section{
+    width: 60%;
+    padding-left: 10%;
+}
+
+
+p{
+    font-size: 16px;
+}
+#AboutMe{
+    width: 60%;
+    padding-left: 10%;
+}
+#contact{
+    margin-top: 100px;
+    padding-left: 10%;
+}
+
+#proj1Title:hover, #proj2Title:hover{
+    cursor: pointer;
+}
